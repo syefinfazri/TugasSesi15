@@ -30,7 +30,7 @@ Binary Search hanya dapat bekerja dengan benar jika data berada dalam kondisi **
 ## Aktivitas 2 – Binary Search Data Angka
 
 **Data:** 5, 7, 23, 32, 34, 62
-**Data yang dicari:** 23
+* **Data yang dicari:** 23
 
 **Hasil:**
 
