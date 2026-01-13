@@ -1,7 +1,7 @@
 # Tugas Praktikum Sesi 15 – Binary Search
 
 * **Nama:** Syefin Fazri Nugraha
-* **NIM:** 2021004009
+* **NIM:** 20210040097
 * **Kelas:** TI25F
 * **Mata Kuliah:** Algoritma dan Struktur Data
 * **Dosen Pengampu:** Shinta Ayuningtias, S.Kom., M.Kom
